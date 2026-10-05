@@ -1,0 +1,67 @@
+[
+  {
+    "id": "verb_001",
+    "section": "Verbal",
+    "topic": "Synonyms",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Choose the word most similar in meaning to 'ABUNDANT'.",
+    "options": ["Scarce", "Plentiful", "Rare", "Meager"],
+    "correctIndex": 1,
+    "tags": ["synonym"]
+  },
+  {
+    "id": "verb_002",
+    "section": "Verbal",
+    "topic": "Antonyms",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Choose the word most opposite in meaning to 'BENEVOLENT'.",
+    "options": ["Kind", "Malevolent", "Generous", "Gentle"],
+    "correctIndex": 1,
+    "tags": ["antonym"]
+  },
+  {
+    "id": "verb_003",
+    "section": "Verbal",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Choose the grammatically correct sentence.",
+    "options": [
+      "He don't like coffee.",
+      "He doesn't likes coffee.",
+      "He doesn't like coffee.",
+      "He not like coffee."
+    ],
+    "correctIndex": 2,
+    "tags": ["grammar"]
+  },
+  {
+    "id": "verb_004",
+    "section": "Verbal",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Pick the correctly spelled word.",
+    "options": ["Recieve", "Receive", "Receeve", "Receve"],
+    "correctIndex": 1,
+    "tags": ["spelling"]
+  },
+  {
+    "id": "verb_005",
+    "section": "Verbal",
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "The phrase 'to let the cat out of the bag' means:",
+    "options": [
+      "To free an animal",
+      "To reveal a secret",
+      "To create confusion",
+      "To waste time"
+    ],
+    "correctIndex": 1,
+    "tags": ["idiom"]
+  }
+]

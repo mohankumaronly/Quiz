@@ -1,0 +1,57 @@
+[
+  {
+    "id": "prog_001",
+    "section": "Programming",
+    "topic": "Time Complexity",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "What is the time complexity of binary search on a sorted array of size n?",
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+    "correctIndex": 1,
+    "tags": ["complexity"]
+  },
+  {
+    "id": "prog_002",
+    "section": "Programming",
+    "topic": "Data Structures",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Which data structure uses FIFO order?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "correctIndex": 1,
+    "tags": ["ds"]
+  },
+  {
+    "id": "prog_003",
+    "section": "Programming",
+    "topic": "Output Prediction",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the output of: int x = 5; printf(\"%d\", x++ + ++x);",
+    "options": ["10", "11", "12", "13"],
+    "correctIndex": 2,
+    "tags": ["c", "output"]
+  },
+  {
+    "id": "prog_004",
+    "section": "Programming",
+    "topic": "Algorithms",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which sorting algorithm has the best worst-case time complexity?",
+    "options": ["Quick Sort", "Bubble Sort", "Merge Sort", "Insertion Sort"],
+    "correctIndex": 2,
+    "tags": ["sorting"]
+  },
+  {
+    "id": "prog_005",
+    "section": "Programming",
+    "topic": "OOP",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Which OOP concept allows a class to inherit from multiple interfaces?",
+    "options": ["Encapsulation", "Abstraction", "Polymorphism", "Inheritance"],
+    "correctIndex": 2,
+    "tags": ["oop"]
+  }
+]

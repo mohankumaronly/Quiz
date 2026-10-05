@@ -1,0 +1,57 @@
+[
+  {
+    "id": "rea_001",
+    "section": "Reasoning",
+    "topic": "Series",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+    "options": ["40", "42", "44", "46"],
+    "correctIndex": 1,
+    "tags": ["number-series"]
+  },
+  {
+    "id": "rea_002",
+    "section": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If CAT is coded as 3-1-20, how is DOG coded?",
+    "options": ["4-15-7", "4-14-7", "3-15-7", "4-15-8"],
+    "correctIndex": 0,
+    "tags": ["coding"]
+  },
+  {
+    "id": "rea_003",
+    "section": "Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Pointing to a man, a woman said, 'He is the son of my mother's only son.' How is the man related to the woman?",
+    "options": ["Brother", "Nephew", "Son", "Cousin"],
+    "correctIndex": 1,
+    "tags": ["relations"]
+  },
+  {
+    "id": "rea_004",
+    "section": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "A man walks 5 km north, then 3 km east, then 5 km south. How far is he from the start?",
+    "options": ["3 km", "5 km", "8 km", "10 km"],
+    "correctIndex": 0,
+    "tags": ["direction"]
+  },
+  {
+    "id": "rea_005",
+    "section": "Reasoning",
+    "topic": "Odd One Out",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Find the odd one out: 3, 5, 7, 12, 17",
+    "options": ["3", "5", "12", "17"],
+    "correctIndex": 2,
+    "tags": ["odd-one"]
+  }
+]
