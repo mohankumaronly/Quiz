@@ -225,10 +225,10 @@
         "type": "mcq",
         "question": "A bowler's bowling average is 12.4 runs per wicket. In his next match, he takes 5 wickets by conceding 26 runs, which improves his average to 12.0 runs per wicket. What is the total number of wickets taken by him after the last match?",
         "options": [
-            "45",
-            "50",
-            "55",
-            "60"
+            "75",
+            "80",
+            "85",
+            "90"
         ],
         "correctIndex": 3,
         "tags": [
