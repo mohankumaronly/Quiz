@@ -181,7 +181,7 @@
         "topic": "Averages",
         "difficulty": "medium",
         "type": "mcq",
-        "question": "The average weight of a group of students is 58 kg. When 4 new students with weights 52 kg, 56 kg, 60 kg, and 64 kg join the group, the average weight of the group increases by 0.5 kg. What is the original number of students in the group?",
+        "question": "The average weight of a group of students is 58 kg. When 4 new students with weights 56 kg, 58 kg, 62 kg, and 64 kg join the group, the average weight of the group increases by 0.25 kg. What is the original number of students in the group?",
         "options": [
             "24",
             "28",
