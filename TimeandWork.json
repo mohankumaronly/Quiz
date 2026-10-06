@@ -1,0 +1,555 @@
+[
+    {
+        "id": "timework_001",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "easy",
+        "type": "mcq",
+        "question": "Pipe A can complete a task in 10 days, and pipe B can complete the same task in 15 days. They start working together, but A leaves after 3 days. How many more days will B take to finish the remaining work?",
+        "options": [
+            "5 days",
+            "6 days",
+            "7.5 days",
+            "9 days"
+        ],
+        "correctIndex": 2,
+        "tags": [
+            "Combined Work Rates",
+            "LCM Method"
+        ]
+    },
+    {
+        "id": "timework_002",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "Worker A is 3 times as efficient as worker B. Working together, they can complete a project in 15 days. If the total payment for completing the project is Rs. 16,000, what is the share of worker B?",
+        "options": [
+            "Rs. 4,000",
+            "Rs. 8,000",
+            "Rs. 12,000",
+            "Rs. 6,000"
+        ],
+        "correctIndex": 0,
+        "tags": [
+            "Efficiency",
+            "Wage Distribution"
+        ]
+    },
+    {
+        "id": "timework_003",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "A and B can complete a piece of work in 20 days and 30 days respectively. Both start working together, but A leaves 5 days before the work is actually completed. In how many total days is the work finished?",
+        "options": [
+            "12 days",
+            "14 days",
+            "18 days",
+            "15 days"
+        ],
+        "correctIndex": 3,
+        "tags": [
+            "Leaving Mid-Work",
+            "LCM Method"
+        ]
+    },
+    {
+        "id": "timework_004",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "easy",
+        "type": "mcq",
+        "question": "12 men can complete a project in 16 days working 6 hours a day. How many days will 16 men take to complete the same project if they work 9 hours a day?",
+        "options": [
+            "6 days",
+            "8 days",
+            "10 days",
+            "12 days"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "Chain Rule",
+            "Man-Days"
+        ]
+    },
+    {
+        "id": "timework_005",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "If 3 men or 6 women can finish a work in 20 days, in how many days can 4 men and 4 women working together complete the same work?",
+        "options": [
+            "8 days",
+            "12 days",
+            "10 days",
+            "15 days"
+        ],
+        "correctIndex": 2,
+        "tags": [
+            "Work Equivalence",
+            "Group Efficiency"
+        ]
+    },
+    {
+        "id": "timework_006",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "Pipe A can complete a project in 12 days, B can complete it in 15 days, and C can complete it in 20 days. They work on an alternating schedule: A works alone on the first day, and on the second day, A, B, and C all work together. This two-day cycle repeats until the work is finished. In how many total days is the work completed?",
+        "options": [
+            "8 days",
+            "7.67 days",
+            "7.33 days",
+            "6.67 days"
+        ],
+        "correctIndex": 2,
+        "tags": [
+            "Alternate Days",
+            "Cycles"
+        ]
+    },
+    {
+        "id": "timework_007",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "Pipe A can fill an empty tank in 12 hours, Pipe B can fill it in 15 hours, and Pipe C (an outlet) can empty the completely full tank in 20 hours. All three pipes are opened together. After 3 hours, Pipe C is closed. In how many total hours will the tank be completely filled?",
+        "options": [
+            "6.33 hours",
+            "7.67 hours",
+            "8.00 hours",
+            "6.67 hours"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "Negative Efficiency",
+            "Pipes and Cisterns"
+        ]
+    },
+    {
+        "id": "timework_008",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "Worker A can complete 1/2 of a project in 5 days, worker B can complete 3/5 of the same project in 9 days, and worker C can complete 2/3 of the project in 8 days. If A, B, and C work together, in how many days will they complete the entire project?",
+        "options": [
+            "4 days",
+            "5 days",
+            "6 days",
+            "4.5 days"
+        ],
+        "correctIndex": 0,
+        "tags": [
+            "Fractional Work",
+            "Combined Rates"
+        ]
+    },
+    {
+        "id": "timework_009",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "Worker P can build a structure in 10 days, while worker Q can demolish the built structure in 15 days. They work on alternate days starting with P on the first day. In how many days will the structure be completely built for the first time?",
+        "options": [
+            "52 days",
+            "57 days",
+            "60 days",
+            "55 days"
+        ],
+        "correctIndex": 3,
+        "tags": [
+            "Negative Work",
+            "Alternate Days"
+        ]
+    },
+    {
+        "id": "timework_010",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "Workers A and B can complete a work individually in 12 and 16 days respectively. They work together for 4 days, after which B leaves. A continues alone for another 2 days. Then, C joins A, and they finish the remaining work in 1.5 days. How many days would C alone take to complete the entire work?",
+        "options": [
+            "10 days",
+            "12 days",
+            "15 days",
+            "16 days"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "Efficiency Shifting",
+            "Variable Work"
+        ]
+    },
+    {
+        "id": "timework_011",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days can 10 women complete the same work?",
+        "options": [
+            "30 days",
+            "35 days",
+            "40 days",
+            "45 days"
+        ],
+        "correctIndex": 2,
+        "tags": [
+            "Group Efficiency Split",
+            "Equations"
+        ]
+    },
+    {
+        "id": "timework_012",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "A contractor undertakes to build a road in 40 days and employs 25 men. After 24 days, only 1/3 of the road is completed. How many extra men must he employ to finish the entire road strictly on time?",
+        "options": [
+            "50 men",
+            "75 men",
+            "25 men",
+            "100 men"
+        ],
+        "correctIndex": 0,
+        "tags": [
+            "Contractor Management",
+            "Chain Rule"
+        ]
+    },
+    {
+        "id": "timework_013",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "A can do a piece of work in 20 days and B in 30 days. They work together for some time, then B leaves. If A completes the remaining work in 5 days, for how many days did they work together?",
+        "options": [
+            "6 days",
+            "9 days",
+            "8 days",
+            "10 days"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "Partial Work Completion",
+            "LCM Method"
+        ]
+    },
+    {
+        "id": "timework_014",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "Three teams P, Q, and R are assigned a project. P and Q together can finish it in 12 days, Q and R together in 16 days. After P works on it for 5 days and Q works on it for 7 days, R finishes the remaining work alone in 13 days. In how many days can R alone complete the entire project?",
+        "options": [
+            "24 days",
+            "32 days",
+            "36 days",
+            "40 days"
+        ],
+        "correctIndex": 0,
+        "tags": [
+            "Combined Variable Efficiency",
+            "Equations"
+        ]
+    },
+    {
+        "id": "timework_015",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "easy",
+        "type": "mcq",
+        "question": "A, B, and C can complete a task in 10, 12, and 15 days respectively. They begin the work together, but A leaves after 2 days and B leaves 3 days before the completion of the work. How many total days did it take to complete the task?",
+        "options": [
+            "5 days",
+            "6 days",
+            "7 days",
+            "8 days"
+        ],
+        "correctIndex": 2,
+        "tags": [
+            "Left Before Completion",
+            "LCM Method"
+        ]
+    },
+    {
+        "id": "timework_016",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "If 5 men and 2 boys can do in a day four times as much work as a man and a boy together can do, what is the ratio of the efficiency of a man to that of a boy?",
+        "options": [
+            "1:2",
+            "2:1",
+            "3:2",
+            "2:3"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "Efficiency Ratios",
+            "Work Equivalence"
+        ]
+    },
+    {
+        "id": "timework_017",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "A tank has a leak which can empty it in 8 hours. An inlet pipe fills water at the rate of 6 litres per minute. When the tank is completely full, the inlet is opened, and due to the leak, the tank empties in 12 hours. What is the total capacity of the tank?",
+        "options": [
+            "7200 litres",
+            "8640 litres",
+            "9600 litres",
+            "6480 litres"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "Volume Capacity",
+            "Pipes and Cisterns"
+        ]
+    },
+    {
+        "id": "timework_018",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "A can build a wall in 30 days while B can destroy it in 40 days. If they work on alternate days starting with A, on which day will the wall be completely built for the first time?",
+        "options": [
+            "233rd day",
+            "235th day",
+            "237th day",
+            "239th day"
+        ],
+        "correctIndex": 0,
+        "tags": [
+            "Negative Work Cycles",
+            "Alternate Days"
+        ]
+    },
+    {
+        "id": "timework_019",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "Twenty workers can complete a construction project in 30 days. After every 10 days, 5 workers leave the project. In how many days will the entire project be completed?",
+        "options": [
+            "35 days",
+            "40 days",
+            "38 days",
+            "45 days"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "Workforce Attrition",
+            "Man-Days Arithmetic"
+        ]
+    },
+    {
+        "id": "timework_020",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "easy",
+        "type": "mcq",
+        "question": "A is twice as good a workman as B and therefore is able to finish a job in 30 days less than B. How many days will they take to complete the job if they work together?",
+        "options": [
+            "18 days",
+            "20 days",
+            "15 days",
+            "22 days"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "Relative Efficiency",
+            "Time Differences"
+        ]
+    },
+    {
+        "id": "timework_021",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "data_sufficiency",
+        "question": "How many hours will it take for Pipe A and Pipe B working together to fill an empty water tank?\nStatement I: Pipe B takes 6 hours more to fill the tank than Pipe A.\nStatement II: An outlet Pipe C can empty the completely full tank in 8 hours. When all three pipes are opened simultaneously, the tank is filled in 12 hours.",
+        "options": [
+            "Statement I alone is sufficient, but statement II alone is not sufficient.",
+            "Statement II alone is sufficient, but statement I alone is not sufficient.",
+            "Both statements I and II together are sufficient, but neither statement alone is sufficient.",
+            "Statements I and II together are NOT sufficient.",
+            "Each statement alone is sufficient."
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "Data Sufficiency",
+            "Pipes and Cisterns"
+        ]
+    },
+    {
+        "id": "timework_022",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "data_sufficiency",
+        "question": "Three workers P, Q, and R work together on a data-migration project. What is the individual efficiency ratio of P : Q : R?\nStatement I: P and Q together can finish the project in 10 days, while Q and R together can finish it in 15 days.\nStatement II: The total wage allocated for the project is Rs. 45,000, out of which P receives Rs. 20,000 for completing his share of the collective work.",
+        "options": [
+            "Statement I alone is sufficient, but statement II alone is not sufficient.",
+            "Statement II alone is sufficient, but statement I alone is not sufficient.",
+            "Both statements I and II together are sufficient, but neither statement alone is sufficient.",
+            "Statements I and II together are NOT sufficient.",
+            "Each statement alone is sufficient."
+        ],
+        "correctIndex": 3,
+        "tags": [
+            "Data Sufficiency",
+            "Efficiency Ratios"
+        ]
+    },
+    {
+        "id": "timework_023",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "data_sufficiency",
+        "question": "A team of men is hired to lay down a railway track in 20 days. How many men were originally deployed in the team?\nStatement I: If 10 more men were added to the team from day one, the entire project would have been completed in 15 days.\nStatement II: After 10 days of work, half of the team left, causing the remaining work to be delayed by exactly 5 days.",
+        "options": [
+            "Statement I alone is sufficient, but statement II alone is not sufficient.",
+            "Statement II alone is sufficient, but statement I alone is not sufficient.",
+            "Both statements I and II together are sufficient, but neither statement alone is sufficient.",
+            "Statements I and II together are NOT sufficient.",
+            "Each statement alone is sufficient."
+        ],
+        "correctIndex": 4,
+        "tags": [
+            "Data Sufficiency",
+            "Man-Days Arithmetic"
+        ]
+    },
+    {
+        "id": "timework_024",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "numeric_entry",
+        "question": "An inlet pipe with a circular cross-section of radius 2 cm can fill a reservoir in 45 minutes. If the fluid velocity remains constant, how many minutes will it take a replacement pipe with a circular cross-section of radius 6 cm to fill the same reservoir? (Enter only the numeric value)",
+        "options": [],
+        "correctIndex": 5,
+        "tags": [
+            "Fluid Dynamics",
+            "Cross-Sectional Area"
+        ]
+    },
+    {
+        "id": "timework_025",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "numeric_entry",
+        "question": "A, B, and C can complete a tech deployment in 12, 18, and 24 hours respectively. They begin working together. However, A leaves when exactly one-third of the total work is completed. B leaves when exactly half of the remaining work is completed. C works alone to complete the rest of the deployment. How many total hours did it take to complete the deployment? (Enter value up to two decimal places)",
+        "options": [],
+        "correctIndex": 11.33,
+        "tags": [
+            "Milestone Departures",
+            "Partial Efficiency"
+        ]
+    },
+    {
+        "id": "timework_026",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "numeric_entry",
+        "question": "A manufacturing machine operates with 100% efficiency on Day 1. Due to technical degradation, its efficiency decreases by exactly 10% of its previous day's efficiency at the end of each working day. If the machine completes a specific production batch in exactly 3 days under this degradation cycle, how many days would it take to complete the identical batch if it maintained 100% efficiency throughout? (Enter value up to two decimal places)",
+        "options": [],
+        "correctIndex": 2.71,
+        "tags": [
+            "Compounding Efficiency Loss",
+            "Progressive Rates"
+        ]
+    },
+    {
+        "id": "timework_027",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "A group of 30 analytics engines can process a corporate dataset in 12 days working 8 hours a day. After 4 days, 6 engines suffer a hardware fault and go offline. Simultaneously, the daily operation schedule is extended to 10 hours a day for the remaining engines. How many additional days will it take to finish processing the dataset?",
+        "options": [
+            "6.4 days",
+            "8.0 days",
+            "7.5 days",
+            "5.6 days"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "Chain Rule Breakdown",
+            "Operational Tweaks"
+        ]
+    },
+    {
+        "id": "timework_028",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "Pipe X and Pipe Y can fill a chemical vat in 24 minutes and 32 minutes respectively. Both are opened simultaneously. After how many minutes should Pipe Y be turned off so that the vat is filled exactly to the brim in 18 minutes?",
+        "options": [
+            "6 minutes",
+            "8 minutes",
+            "10 minutes",
+            "12 minutes"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "Pipes and Cisterns",
+            "Target Deadlines"
+        ]
+    },
+    {
+        "id": "timework_029",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "numeric_entry",
+        "question": "Workers M and N can execute an optimization pipeline individually in 15 days and 20 days respectively. They collaborate on alternate days, with N working on Day 1, M working on Day 2, N on Day 3, and so on. On exactly which day will the pipeline completion cross 100% for the first time? (Enter only the integer day value)",
+        "options": [],
+        "correctIndex": 18,
+        "tags": [
+            "Alternate Days",
+            "Order of Execution"
+        ]
+    },
+    {
+        "id": "timework_030",
+        "section": "Numerical",
+        "topic": "Time & Work",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "Three developers, P, Q, and R, are assigned to write code modules. P is 40% more efficient than Q, and R is 20% less efficient than Q. If P takes 15 fewer days than R to complete a standalone module, how many days will all three working together take to complete the same module?",
+        "options": [
+            "10.5 days",
+            "12.0 days",
+            "11.25 days",
+            "13.5 days"
+        ],
+        "correctIndex": 2,
+        "tags": [
+            "Three-Way Efficiency",
+            "Time Differences"
+        ]
+    }
+]
