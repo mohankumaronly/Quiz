@@ -34,7 +34,8 @@
         "correctIndex": 2,
         "tags": [
             "averages",
-            "ages"
+            "ages",
+            "inclusion-exclusion"
         ]
     },
     {
@@ -53,31 +54,12 @@
         "correctIndex": 0,
         "tags": [
             "averages",
-            "weights"
+            "weights",
+            "replacement"
         ]
     },
     {
         "id": "average_004",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "easy",
-        "type": "mcq",
-        "question": "A car travels from City A to City B at a speed of 40 km/h and returns from City B to City A at a speed of 60 km/h. What is the average speed of the car for the entire journey?",
-        "options": [
-            "50 km/h",
-            "52 km/h",
-            "45 km/h",
-            "48 km/h"
-        ],
-        "correctIndex": 3,
-        "tags": [
-            "averages",
-            "average-speed",
-            "speed"
-        ]
-    },
-    {
-        "id": "average_005",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "easy",
@@ -97,27 +79,125 @@
         ]
     },
     {
-        "id": "average_006",
+        "id": "average_005",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "medium",
         "type": "mcq",
-        "question": "The average age of a husband and wife was 23 years when they were married 5 years ago. Now, the average age of the family, including a child born during the interim period, is 20 years. What is the present age of the child?",
+        "question": "The average age of a group of 5 members in a club was 32 years 3 years ago. A new member joined the group, and the present average age of the 6 members is still 32 years. What is the age of the new member?",
         "options": [
-            "2 years",
-            "4 years",
-            "3 years",
-            "5 years"
+            "17 years",
+            "20 years",
+            "22 years",
+            "25 years"
         ],
-        "correctIndex": 1,
+        "correctIndex": 0,
         "tags": [
             "averages",
             "ages",
-            "family"
+            "new-member",
+            "inclusion"
+        ]
+    },
+    {
+        "id": "average_006",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "easy",
+        "type": "mcq",
+        "question": "A cricket player has completed 20 innings and has an average of 44 runs. How many runs must he score in his 21st innings to raise his overall average to 46 runs?",
+        "options": [
+            "86 runs",
+            "84 runs",
+            "90 runs",
+            "82 runs"
+        ],
+        "correctIndex": 0,
+        "tags": [
+            "averages",
+            "cricket",
+            "runs",
+            "inclusion"
         ]
     },
     {
         "id": "average_007",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "The average age of a committee of 8 members is 40 years. A member aged 55 resigns, and a new member joins. Consequently, the average age of the committee drops to 39 years. What is the age of the new member?",
+        "options": [
+            "27 years",
+            "35 years",
+            "47 years",
+            "42 years"
+        ],
+        "correctIndex": 2,
+        "tags": [
+            "averages",
+            "ages",
+            "replacement"
+        ]
+    },
+    {
+        "id": "average_008",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "hard",
+        "type": "numeric",
+        "question": "An agile team completes a project in 4 sprints. The average velocity (story points completed per sprint) of the first 3 sprints was 42. After completing the 4th sprint, the overall average velocity increased to 45. How many story points did the team complete in the 4th sprint?",
+        "options": [],
+        "correctIndex": 54,
+        "tags": [
+            "averages",
+            "incremental-average",
+            "numeric-entry"
+        ]
+    },
+    {
+        "id": "average_009",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "In a college, 60% of the students are boys and the rest are girls. The average score of the boys in an examination is 65, while the average score of all students combined is 71. What is the average score of the girls?",
+        "options": [
+            "78",
+            "76",
+            "82",
+            "80"
+        ],
+        "correctIndex": 3,
+        "tags": [
+            "averages",
+            "weighted-average",
+            "scores"
+        ]
+    },
+    {
+        "id": "average_010",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "The average weight of a group of students is 58 kg. When 4 new students with weights 52 kg, 56 kg, 60 kg, and 64 kg join the group, the average weight of the group increases by 0.5 kg. What is the original number of students in the group?",
+        "options": [
+            "24",
+            "28",
+            "32",
+            "36"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "averages",
+            "weights",
+            "weighted-average",
+            "inclusion"
+        ]
+    },
+    {
+        "id": "average_011",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "medium",
@@ -137,7 +217,65 @@
         ]
     },
     {
-        "id": "average_008",
+        "id": "average_012",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "The mean marks of 40 students is 70. Two scores 56 and 44 were misread as 65 and 54 respectively. What is the correct average marks of the students?",
+        "options": [
+            "69.80",
+            "69.525",
+            "70.20",
+            "69.15"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "averages",
+            "marks",
+            "correction",
+            "double-error"
+        ]
+    },
+    {
+        "id": "average_013",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "The average score of 50 students in an assessment is 54. It was found that the marks of three students were wrongly entered as 82, 75, and 64 instead of 42, 57, and 46 respectively. Additionally, two students who scored 0 were completely missed out during the calculation. What is the actual correct average score of the 52 students?",
+        "options": [
+            "50.46",
+            "48.5",
+            "49.5",
+            "51.2"
+        ],
+        "correctIndex": 0,
+        "tags": [
+            "averages",
+            "correction",
+            "data-omission",
+            "double-error"
+        ]
+    },
+    {
+        "id": "average_014",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "hard",
+        "type": "numeric",
+        "question": "A production line manufactures batches of microchips. The average defect rate across 15 batches was calculated as 2.4%. Later, it was discovered that a defect rate of 4.8% in one batch was wrongly typed as 0.8%, and a rate of 1.2% in another batch was completely omitted from the calculation. What is the actual correct average defect rate of the 16 batches? (Round off to two decimal places, don't enter the % sign)",
+        "options": [],
+        "correctIndex": 2.56,
+        "tags": [
+            "averages",
+            "data-omission",
+            "percentage-averages",
+            "double-error"
+        ]
+    },
+    {
+        "id": "average_015",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "medium",
@@ -153,31 +291,133 @@
         "tags": [
             "averages",
             "runs",
-            "increment-in-average"
+            "increment-in-average",
+            "cricket"
         ]
     },
     {
-        "id": "average_009",
+        "id": "average_016",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "medium",
         "type": "mcq",
-        "question": "A person travels three equal segments of a journey (60 km each) at speeds of 30 km/h, 40 km/h, and 60 km/h respectively. What is the average speed for the entire journey?",
+        "question": "A bowler's bowling average is 12.4 runs per wicket. In his next match, he takes 5 wickets by conceding 26 runs, which improves his average to 12.0 runs per wicket. What is the total number of wickets taken by him after the last match?",
         "options": [
-            "42 km/h",
-            "38 km/h",
-            "40 km/h",
-            "45 km/h"
+            "75",
+            "80",
+            "85",
+            "90"
+        ],
+        "correctIndex": 3,
+        "tags": [
+            "averages",
+            "bowling-average",
+            "wickets",
+            "cricket"
+        ]
+    },
+    {
+        "id": "average_017",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "A batting coach calculates that a player needs to score an average of 68 runs in his next 5 innings to bring his career average up to 55. If his current career average over 'x' innings is 52, find the value of x.",
+        "options": [
+            "18",
+            "20",
+            "22",
+            "15"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "averages",
+            "cricket",
+            "career-stats"
+        ]
+    },
+    {
+        "id": "average_018",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "A cricketer whose bowling average is 11.5 runs per wicket. In her next match, she takes 6 wickets by giving just 33 runs and her average decreases by 0.5. The total number of wickets taken by her.",
+        "options": [
+            "66",
+            "72",
+            "78",
+            "68"
         ],
         "correctIndex": 2,
         "tags": [
             "averages",
-            "average-speed",
-            "equal-distances"
+            "bowling-average",
+            "cricket"
         ]
     },
     {
-        "id": "average_010",
+        "id": "average_019",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "An insurance analyst calculates the average claim amount for 120 clients as Rs. 15,000. The clients are divided into Low-risk and High-risk categories. The average claim of Low-risk clients is Rs. 12,000, and that of High-risk clients is Rs. 20,000. What is the absolute difference between the number of clients in both categories?",
+        "options": [
+            "20",
+            "30",
+            "40",
+            "15"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "averages",
+            "alligation-mixture",
+            "weighted-average"
+        ]
+    },
+    {
+        "id": "average_020",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "The average monthly salary of all employees in an IT firm is Rs. 45,000. The average salary of 12 senior engineers is Rs. 80,000, and the average salary of the rest of the tech staff is Rs. 35,000. If the remaining non-tech support staff (who comprise exactly 20% of the total employee base) have an average salary of Rs. 25,000, find the total number of employees working in the firm.",
+        "options": [
+            "48",
+            "60",
+            "80",
+            "75"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "averages",
+            "mixtures-alligations",
+            "multi-group"
+        ]
+    },
+    {
+        "id": "average_021",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "In a corporate training program, the average score of Batch X (30 employees) is 78, Batch Y (50 employees) is 85, and Batch Z (20 employees) is 65. If 10 employees with an average score of 72 are transferred from Batch Y to Batch X, what is the new combined average score of Batch X and Batch Y?",
+        "options": [
+            "81.20",
+            "82.15",
+            "80.50",
+            "83.00"
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "averages",
+            "weighted-average",
+            "transfer"
+        ]
+    },
+    {
+        "id": "average_022",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "medium",
@@ -198,187 +438,7 @@
         ]
     },
     {
-        "id": "average_011",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "medium",
-        "type": "mcq",
-        "question": "In a corporate training program, the average score of Batch X (30 employees) is 78, Batch Y (50 employees) is 85, and Batch Z (20 employees) is 65. If 10 employees with an average score of 72 are transferred from Batch Y to Batch X, what is the new combined average score of Batch X and Batch Y?",
-        "options": [
-            "81.20",
-            "82.15",
-            "80.50",
-            "83.00"
-        ],
-        "correctIndex": 1,
-        "tags": [
-            "averages",
-            "weighted-average",
-            "transfer"
-        ]
-    },
-    {
-        "id": "average_012",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "medium",
-        "type": "mcq",
-        "question": "A bowler's bowling average is 12.4 runs per wicket. In his next match, he takes 5 wickets by conceding 26 runs, which improves his average to 12.0 runs per wicket. What is the total number of wickets taken by him after the last match?",
-        "options": [
-            "75",
-            "80",
-            "85",
-            "90"
-        ],
-        "correctIndex": 3,
-        "tags": [
-            "averages",
-            "bowling-average",
-            "wickets"
-        ]
-    },
-    {
-        "id": "average_013",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "medium",
-        "type": "mcq",
-        "question": "The average age of a group of 5 members in a club was 32 years 3 years ago. A new member joined the group, and the present average age of the 6 members is still 32 years. What is the age of the new member?",
-        "options": [
-            "17 years",
-            "20 years",
-            "22 years",
-            "25 years"
-        ],
-        "correctIndex": 0,
-        "tags": [
-            "averages",
-            "ages",
-            "new-member"
-        ]
-    },
-    {
-        "id": "average_014",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "medium",
-        "type": "mcq",
-        "question": "The average of 15 numbers is 42. The average of the first 8 numbers is 38, and the average of the last 8 numbers is 47. What is the 8th number?",
-        "options": [
-            "46",
-            "52",
-            "48",
-            "54"
-        ],
-        "correctIndex": 2,
-        "tags": [
-            "averages",
-            "number-series",
-            "overlapping-groups"
-        ]
-    },
-    {
-        "id": "average_015",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "medium",
-        "type": "mcq",
-        "question": "The average weight of a group of students is 58 kg. When 4 new students with weights 52 kg, 56 kg, 60 kg, and 64 kg join the group, the average weight of the group increases by 0.5 kg. What is the original number of students in the group?",
-        "options": [
-            "24",
-            "28",
-            "32",
-            "36"
-        ],
-        "correctIndex": 1,
-        "tags": [
-            "averages",
-            "weights",
-            "weighted-average"
-        ]
-    },
-    {
-        "id": "average_016",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "medium",
-        "type": "mcq",
-        "question": "In a college, 60% of the students are boys and the rest are girls. The average score of the boys in an examination is 65, while the average score of all students combined is 71. What is the average score of the girls?",
-        "options": [
-            "78",
-            "76",
-            "82",
-            "80"
-        ],
-        "correctIndex": 3,
-        "tags": [
-            "averages",
-            "weighted-average",
-            "scores"
-        ]
-    },
-    {
-        "id": "average_017",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "easy",
-        "type": "mcq",
-        "question": "A cricket player has completed 20 innings and has an average of 44 runs. How many runs must he score in his 21st innings to raise his overall average to 46 runs?",
-        "options": [
-            "86 runs",
-            "84 runs",
-            "90 runs",
-            "82 runs"
-        ],
-        "correctIndex": 0,
-        "tags": [
-            "averages",
-            "cricket",
-            "runs"
-        ]
-    },
-    {
-        "id": "average_018",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "medium",
-        "type": "mcq",
-        "question": "The average age of a committee of 8 members is 40 years. A member aged 55 resigns, and a new member joins. Consequently, the average age of the committee drops to 39 years. What is the age of the new member?",
-        "options": [
-            "27 years",
-            "35 years",
-            "47 years",
-            "42 years"
-        ],
-        "correctIndex": 2,
-        "tags": [
-            "averages",
-            "ages",
-            "replacement"
-        ]
-    },
-    {
-        "id": "average_019",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "medium",
-        "type": "mcq",
-        "question": "The mean marks of 40 students is 70. Two scores 56 and 44 were misread as 65 and 54 respectively. What is the correct average marks of the students?",
-        "options": [
-            "69.80",
-            "69.525",
-            "70.20",
-            "69.15"
-        ],
-        "correctIndex": 1,
-        "tags": [
-            "averages",
-            "marks",
-            "correction"
-        ]
-    },
-    {
-        "id": "average_020",
+        "id": "average_023",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "medium",
@@ -399,305 +459,7 @@
         ]
     },
     {
-        "id": "average_021",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "The average score of a class of N students in a test is 64. When 8 new students with an average score of 73 join the class, and 4 students with an average score of 52 leave, the average score of the entire class increases by 1.25. Find the value of N.",
-        "options": [
-            "36",
-            "40",
-            "44",
-            "48"
-        ],
-        "correctIndex": 0,
-        "tags": [
-            "averages",
-            "variable-based",
-            "dynamic-groups"
-        ]
-    },
-    {
-        "id": "average_022",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "In an office, the ratio of the number of managers, analysts, and interns is 2:5:3. The average monthly salary of the managers is 40% more than that of the analysts, and the average salary of the interns is 50% less than that of the analysts. If the overall average monthly salary of all employees combined is Rs. 54,000, what is the average monthly salary of the managers?",
-        "options": [
-            "Rs. 92,400",
-            "Rs. 84,000",
-            "Rs. 75,600",
-            "Rs. 94,500"
-        ],
-        "correctIndex": 3,
-        "tags": [
-            "averages",
-            "ratios",
-            "weighted-average",
-            "percentages"
-        ]
-    },
-    {
-        "id": "average_023",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "A logistics drone travels from a base to a delivery hub. It covers the first 25% of the total distance at a speed of v km/h, the next 50% of the distance at 2v km/h, and the remaining distance at 3v km/h. If the average speed of the drone for the entire journey is 36 km/h, find the value of v.",
-        "options": [
-            "24 km/h",
-            "26 km/h",
-            "27 km/h",
-            "22 km/h"
-        ],
-        "correctIndex": 2,
-        "tags": [
-            "averages",
-            "average-speed",
-            "unequal-distances"
-        ]
-    },
-    {
         "id": "average_024",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "There are three sections of a competitive exam training batch: A, B, and C. The average marks of Section A and B combined is 72, and the average marks of Section B and C combined is 80. If the number of students in sections A, B, and C are in the ratio 3:4:5 respectively, what is the maximum possible average marks of Section A if all individual section averages must be positive integers?",
-        "options": [
-            "78",
-            "81",
-            "76",
-            "83"
-        ],
-        "correctIndex": 1,
-        "tags": [
-            "averages",
-            "weighted-average",
-            "optimization",
-            "integers"
-        ]
-    },
-    {
-        "id": "average_025",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "The average weight of 11 distinct heavy machinery items placed in a line is 120 kg. If the average of the first 6 items is 114 kg and that of the last 6 items is 125 kg, and the 6th item is replaced by a new component weighing 95 kg, what will be the new average weight of the 11 items?",
-        "options": [
-            "118.27 kg",
-            "116.45 kg",
-            "117.36 kg",
-            "119.09 kg"
-        ],
-        "correctIndex": 0,
-        "tags": [
-            "averages",
-            "overlapping-groups",
-            "replacement"
-        ]
-    },
-    {
-        "id": "average_026",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "A student finds the average of 10 positive two-digit numbers. If the digits of one of the numbers are interchanged by mistake, the calculated average decreases by 3.6. What is the positive difference between the digits of that original number?",
-        "options": [
-            "3",
-            "4",
-            "5",
-            "6"
-        ],
-        "correctIndex": 1,
-        "tags": [
-            "averages",
-            "number-properties",
-            "digit-interchange"
-        ]
-    },
-    {
-        "id": "average_027",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "The average score of 50 students in an assessment is 54. It was found that the marks of three students were wrongly entered as 82, 75, and 64 instead of 42, 57, and 46 respectively. Additionally, two students who scored 0 were completely missed out during the calculation. What is the actual correct average score of the 52 students?",
-        "options": [
-            "50.46",
-            "48.5",
-            "49.5",
-            "51.2"
-        ],
-        "correctIndex": 0,
-        "tags": [
-            "averages",
-            "correction",
-            "data-omission"
-        ]
-    },
-    {
-        "id": "average_028",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "Out of 9 persons, 8 persons spent Rs. 150 each for their meals. The 9th person spent Rs. 40 more than the average expenditure of all the 9 persons. What was the total money spent by all of them?",
-        "options": [
-            "Rs. 1,390",
-            "Rs. 1,395",
-            "Rs. 1,400",
-            "Rs. 1,410"
-        ],
-        "correctIndex": 1,
-        "tags": [
-            "averages",
-            "algebraic-averages",
-            "expenditure"
-        ]
-    },
-    {
-        "id": "average_029",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "A batting coach calculates that a player needs to score an average of 68 runs in his next 5 innings to bring his career average up to 55. If his current career average over 'x' innings is 52, find the value of x.",
-        "options": [
-            "18",
-            "20",
-            "22",
-            "15"
-        ],
-        "correctIndex": 1,
-        "tags": [
-            "averages",
-            "cricket",
-            "career-stats"
-        ]
-    },
-    {
-        "id": "average_030",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "Data Sufficiency: What is the average age of a family of 4 members (Father, Mother, Son, Daughter)? \nStatement I: The average age of the Father, Mother, and Son is 32 years, and the Daughter is 6 years younger than the Son. \nStatement II: The ratio of the ages of the Son and Daughter is 5:3, and the Mother's age is equal to the sum of the ages of the Son and Daughter.",
-        "options": [
-            "Statement I alone is sufficient, but Statement II alone is not sufficient.",
-            "Statement II alone is sufficient, but Statement I alone is not sufficient.",
-            "Both Statements I and II together are sufficient, but neither statement alone is sufficient.",
-            "Statements I and II together are not sufficient."
-        ],
-        "correctIndex": 3,
-        "tags": [
-            "averages",
-            "data-sufficiency",
-            "ages"
-        ]
-    },
-    {
-        "id": "average_031",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "A data analyst is reviewing a server log containing the following dataset of error codes: 6, 4, 2, 4, 7, 5, 8, and 4. Let P be the arithmetic mean of the dataset, Q be the mode, and R be the median. Find the exact value of the expression: 3P - 2Q + R.",
-        "options": [
-            "10.5",
-            "11.5",
-            "12.0",
-            "9.5"
-        ],
-        "correctIndex": 1,
-        "tags": [
-            "averages",
-            "mean-median-mode",
-            "statistics"
-        ]
-    },
-    {
-        "id": "average_032",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "There are three numbers such that the second number is twice the first, and the third number is twice the second. If the average of the reciprocals of these three numbers is 7/72, find the value of the largest original number.",
-        "options": [
-            "12",
-            "18",
-            "24",
-            "36"
-        ],
-        "correctIndex": 2,
-        "tags": [
-            "averages",
-            "reciprocals",
-            "algebraic-equations"
-        ]
-    },
-    {
-        "id": "average_033",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "An automated system needs to process 50,000 files in exactly 2 hours. In the first hour, it processes 20,000 files at a steady rate, but then freezes completely for 10 minutes for a system reboot. By what factor must the system increase its processing speed during the remaining active time relative to its first-hour rate to finish exactly on schedule?",
-        "options": [
-            "1.5 times",
-            "1.6 times",
-            "1.8 times",
-            "2.0 times"
-        ],
-        "correctIndex": 2,
-        "tags": [
-            "averages",
-            "rate-of-work",
-            "time-scaling"
-        ]
-    },
-    {
-        "id": "average_034",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "The average of 7 consecutive odd integers sorted in ascending order is K. If the next 3 consecutive even integers immediately following the largest odd integer are included in the set, the new overall average of all 10 numbers becomes 30.7. Find the value of K.",
-        "options": [
-            "24",
-            "25",
-            "26",
-            "27"
-        ],
-        "correctIndex": 1,
-        "tags": [
-            "averages",
-            "consecutive-series",
-            "mixed-sequences"
-        ]
-    },
-    {
-        "id": "average_035",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "numeric",
-        "question": "The average marks of 10 students in a placement assessment is 72. If no student scored less than 60 and the maximum marks possible in the test is 100, what is the maximum possible score that the top scorer could have achieved?",
-        "options": [],
-        "correctIndex": 100,
-        "tags": [
-            "averages",
-            "optimization",
-            "min-max-bounds",
-            "tcs-nqt-style"
-        ]
-    },
-    {
-        "id": "average_036",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "hard",
@@ -717,77 +479,60 @@
         ]
     },
     {
-        "id": "average_037",
+        "id": "average_025",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "hard",
         "type": "numeric",
-        "question": "An agile team completes a project in 4 sprints. The average velocity (story points completed per sprint) of the first 3 sprints was 42. After completing the 4th sprint, the overall average velocity increased to 45. How many story points did the team complete in the 4th sprint?",
+        "question": "A customer care automation engine tracks ticket resolution times. The average resolution time for 8 tickets was T minutes. If the digits of the resolution time for one ticket were accidentally interchanged (e.g., 81 instead of 18), the calculated average time escalated by 4.5 minutes. What is the positive difference between the digits of that specific ticket's actual resolution time?",
         "options": [],
-        "correctIndex": 54,
+        "correctIndex": 4,
         "tags": [
             "averages",
-            "incremental-average",
-            "numeric-entry"
+            "number-properties",
+            "digit-interchange",
+            "data-error"
         ]
     },
     {
-        "id": "average_038",
+        "id": "average_026",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "hard",
         "type": "mcq",
-        "question": "Data Sufficiency: What is the average age of 5 consultants working on a cloud migration project?\nStatement I: The median age of the group is 28 years, and the oldest consultant is 40 years old.\nStatement II: The average age of the 4 youngest consultants is 26 years, and the average age of the 4 oldest consultants is 31 years.",
+        "question": "A student finds the average of 10 positive two-digit numbers. If the digits of one of the numbers are interchanged by mistake, the calculated average decreases by 3.6. What is the positive difference between the digits of that original number?",
         "options": [
-            "Statement I alone is sufficient, but Statement II alone is not.",
-            "Statement II alone is sufficient, but Statement I alone is not.",
-            "Both Statements I and II together are sufficient.",
-            "Statements I and II together are not sufficient."
+            "3",
+            "4",
+            "5",
+            "6"
         ],
         "correctIndex": 1,
         "tags": [
             "averages",
-            "data-sufficiency",
-            "mean-median-bounds"
+            "number-properties",
+            "digit-interchange",
+            "data-error"
         ]
     },
     {
-        "id": "average_039",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "A network router processes traffic from three channels A, B, and C. Channel A sends data packets at an average speed of 40 Mbps, B at 60 Mbps, and C at 80 Mbps. If the router processes equal data sizes from channels A and B, and double that size from channel C, what is the average processing speed for the entire data payload?",
-        "options": [
-            "62.4 Mbps",
-            "60.0 Mbps",
-            "58.6 Mbps",
-            "61.5 Mbps"
-        ],
-        "correctIndex": 0,
-        "tags": [
-            "averages",
-            "harmonic-mean",
-            "weighted-speed"
-        ]
-    },
-    {
-        "id": "average_040",
+        "id": "average_027",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "hard",
         "type": "numeric",
-        "question": "A production line manufactures batches of microchips. The average defect rate across 15 batches was calculated as 2.4%. Later, it was discovered that a defect rate of 4.8% in one batch was wrongly typed as 0.8%, and a rate of 1.2% in another batch was completely omitted from the calculation. What is the actual correct average defect rate of the 16 batches? (Round off to two decimal places, don't enter the % sign)",
+        "question": "The average marks of 10 students in a placement assessment is 72. If no student scored less than 60 and the maximum marks possible in the test is 100, what is the maximum possible score that the top scorer could have achieved?",
         "options": [],
-        "correctIndex": 2.56,
+        "correctIndex": 100,
         "tags": [
             "averages",
-            "data-omission",
-            "percentage-averages"
+            "optimization",
+            "min-max-bounds",
+            "tcs-nqt-style"
         ]
     },
     {
-        "id": "average_041",
+        "id": "average_028",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "hard",
@@ -807,172 +552,7 @@
         ]
     },
     {
-        "id": "average_042",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "An insurance analyst calculates the average claim amount for 120 clients as Rs. 15,000. The clients are divided into Low-risk and High-risk categories. The average claim of Low-risk clients is Rs. 12,000, and that of High-risk clients is Rs. 20,000. What is the absolute difference between the number of clients in both categories?",
-        "options": [
-            "20",
-            "30",
-            "40",
-            "15"
-        ],
-        "correctIndex": 1,
-        "tags": [
-            "averages",
-            "alligation-mixture",
-            "weighted-average"
-        ]
-    },
-    {
-        "id": "average_043",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "numeric",
-        "question": "The average of 9 consecutive even numbers is E. If the next 5 consecutive odd numbers immediately following the largest even number are included in the set, the new overall average increases by 6.5. Find the value of E.",
-        "options": [],
-        "correctIndex": 24,
-        "tags": [
-            "averages",
-            "consecutive-series",
-            "mixed-sequences"
-        ]
-    },
-    {
-        "id": "average_044",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "In a corporate department, the average age of 20 executives is 35 years. If the ages of the HR Manager and Technical Director are included, the average age increases by 1.5 years. If the Technical Director is 7 years older than the HR Manager, what is the age of the HR Manager?",
-        "options": [
-            "46 years",
-            "48 years",
-            "45 years",
-            "51 years"
-        ],
-        "correctIndex": 2,
-        "tags": [
-            "averages",
-            "ages",
-            "group-inclusion"
-        ]
-    },
-    {
-        "id": "average_045",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "A stock trader buys shares of a tech company over three consecutive days. On Day 1, he spends Rs. 12,000 when the stock price is Rs. 120 per share. On Day 2, he spends Rs. 12,000 when the price drops to Rs. 80 per share. On Day 3, he spends Rs. 12,000 when the price rises to Rs. 150 per share. What is his average purchase price per share for the entire stock portfolio?",
-        "options": [
-            "Rs. 112.50",
-            "Rs. 108.00",
-            "Rs. 116.66",
-            "Rs. 105.88"
-        ],
-        "correctIndex": 3,
-        "tags": [
-            "averages",
-            "harmonic-mean",
-            "shares-investment"
-        ]
-    },
-    {
-        "id": "average_046",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "numeric",
-        "question": "The arithmetic mean of a server response time log containing 8 entries is 4.5 milliseconds. The modal response time is 3 milliseconds (appearing 3 times). If the median response time is 4 milliseconds, find the value of the largest response time value possible in the dataset assuming all logs are positive integers.",
-        "options": [],
-        "correctIndex": 13,
-        "tags": [
-            "averages",
-            "mean-median-mode",
-            "optimization"
-        ]
-    },
-    {
-        "id": "average_047",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "A dataset contains N values with an average of 40. When 5 new entries with an average of 52 are added to the dataset, the overall average becomes 42. If instead, 3 entries with an average of 20 were removed from the original dataset, what would be the new average of the remaining elements?",
-        "options": [
-            "41.5",
-            "42.8",
-            "43.5",
-            "44.0"
-        ],
-        "correctIndex": 2,
-        "tags": [
-            "averages",
-            "variable-based",
-            "dynamic-groups"
-        ]
-    },
-    {
-        "id": "average_048",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "Data Sufficiency: There are 5 distinct integers arranged in ascending order. Is the average of these 5 integers greater than the median?\nStatement I: The sum of the two largest integers is more than double the sum of the two smallest integers.\nStatement II: The difference between the 5th and 3rd integer is three times the difference between the 3rd and 1st integer.",
-        "options": [
-            "Statement I alone is sufficient, but Statement II alone is not.",
-            "Statement II alone is sufficient, but Statement I alone is not.",
-            "Both Statements I and II together are sufficient.",
-            "Statements I and II together are not sufficient."
-        ],
-        "correctIndex": 1,
-        "tags": [
-            "averages",
-            "data-sufficiency",
-            "number-properties"
-        ]
-    },
-    {
-        "id": "average_049",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "numeric",
-        "question": "A customer care automation engine tracks ticket resolution times. The average resolution time for 8 tickets was T minutes. If the digits of the resolution time for one ticket were accidentally interchanged (e.g., 81 instead of 18), the calculated average time escalated by 4.5 minutes. What is the positive difference between the digits of that specific ticket's actual resolution time?",
-        "options": [],
-        "correctIndex": 4,
-        "tags": [
-            "averages",
-            "number-properties",
-            "digit-interchange"
-        ]
-    },
-    {
-        "id": "average_050",
-        "section": "Numerical",
-        "topic": "Averages",
-        "difficulty": "hard",
-        "type": "mcq",
-        "question": "The average monthly salary of all employees in an IT firm is Rs. 45,000. The average salary of 12 senior engineers is Rs. 80,000, and the average salary of the rest of the tech staff is Rs. 35,000. If the remaining non-tech support staff (who comprise exactly 20% of the total employee base) have an average salary of Rs. 25,000, find the total number of employees working in the firm.",
-        "options": [
-            "48",
-            "60",
-            "80",
-            "75"
-        ],
-        "correctIndex": 1,
-        "tags": [
-            "averages",
-            "mixtures-alligations",
-            "multi-group"
-        ]
-    },
-    {
-        "id": "average_051",
+        "id": "average_029",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "hard",
@@ -987,7 +567,64 @@
         ]
     },
     {
-        "id": "average_052",
+        "id": "average_030",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "hard",
+        "type": "numeric",
+        "question": "The arithmetic mean of a server response time log containing 8 entries is 4.5 milliseconds. The modal response time is 3 milliseconds (appearing 3 times). If the median response time is 4 milliseconds, find the value of the largest response time value possible in the dataset assuming all logs are positive integers.",
+        "options": [],
+        "correctIndex": 13,
+        "tags": [
+            "averages",
+            "mean-median-mode",
+            "optimization"
+        ]
+    },
+    {
+        "id": "average_031",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "A logistics drone travels from a base to a delivery hub. It covers the first 25% of the total distance at a speed of v km/h, the next 50% of the distance at 2v km/h, and the remaining distance at 3v km/h. If the average speed of the drone for the entire journey is 36 km/h, find the value of v.",
+        "options": [
+            "24 km/h",
+            "26 km/h",
+            "27 km/h",
+            "22 km/h"
+        ],
+        "correctIndex": 2,
+        "tags": [
+            "averages",
+            "average-speed",
+            "unequal-distances",
+            "harmonic-mean"
+        ]
+    },
+    {
+        "id": "average_032",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "A person travels three equal segments of a journey (60 km each) at speeds of 30 km/h, 40 km/h, and 60 km/h respectively. What is the average speed for the entire journey?",
+        "options": [
+            "42 km/h",
+            "38 km/h",
+            "40 km/h",
+            "45 km/h"
+        ],
+        "correctIndex": 2,
+        "tags": [
+            "averages",
+            "average-speed",
+            "equal-distances",
+            "harmonic-mean"
+        ]
+    },
+    {
+        "id": "average_033",
         "section": "Numerical",
         "topic": "Averages",
         "difficulty": "hard",
@@ -1007,23 +644,105 @@
         ]
     },
     {
-        "id": "average_053",
+        "id": "average_034",
         "section": "Numerical",
         "topic": "Averages",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "type": "mcq",
-        "question": "A cricketer whose bowling average is 11.5 runs per wicket. In her next match, she takes 6 wickets by giving just 33 runs and her average decreases by 0.5. The total number of wickets taken by her.",
+        "question": "A stock trader buys shares of a tech company over three consecutive days. On Day 1, he spends Rs. 12,000 when the stock price is Rs. 120 per share. On Day 2, he spends Rs. 12,000 when the price drops to Rs. 80 per share. On Day 3, he spends Rs. 12,000 when the price rises to Rs. 150 per share. What is his average purchase price per share for the entire stock portfolio?",
         "options": [
-            "66",
-            "72",
-            "78",
-            "68"
+            "Rs. 112.50",
+            "Rs. 108.00",
+            "Rs. 116.66",
+            "Rs. 105.88"
         ],
-        "correctIndex": 2,
+        "correctIndex": 3,
         "tags": [
             "averages",
             "harmonic-mean",
-            "fractional-distance"
+            "shares-investment"
+        ]
+    },
+    {
+        "id": "average_035",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "A network router processes traffic from three channels A, B, and C. Channel A sends data packets at an average speed of 40 Mbps, B at 60 Mbps, and C at 80 Mbps. If the router processes equal data sizes from channels A and B, and double that size from channel C, what is the average processing speed for the entire data payload?",
+        "options": [
+            "62.4 Mbps",
+            "60.0 Mbps",
+            "58.6 Mbps",
+            "61.5 Mbps"
+        ],
+        "correctIndex": 0,
+        "tags": [
+            "averages",
+            "harmonic-mean",
+            "weighted-speed"
+        ]
+    },
+    {
+        "id": "average_036",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "In an office, the ratio of the number of managers, analysts, and interns is 2:5:3. The average monthly salary of the managers is 40% more than that of the analysts, and the average salary of the interns is 50% less than that of the analysts. If the overall average monthly salary of all employees combined is Rs. 54,000, what is the average monthly salary of the managers?",
+        "options": [
+            "Rs. 92,400",
+            "Rs. 84,000",
+            "Rs. 75,600",
+            "Rs. 94,500"
+        ],
+        "correctIndex": 3,
+        "tags": [
+            "averages",
+            "ratios",
+            "weighted-average",
+            "percentages",
+            "three-way-alligation"
+        ]
+    },
+    {
+        "id": "average_037",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "Data Sufficiency: What is the average age of a family of 4 members (Father, Mother, Son, Daughter)? \nStatement I: The average age of the Father, Mother, and Son is 32 years, and the Daughter is 6 years younger than the Son. \nStatement II: The ratio of the ages of the Son and Daughter is 5:3, and the Mother's age is equal to the sum of the ages of the Son and Daughter.",
+        "options": [
+            "Statement I alone is sufficient, but Statement II alone is not sufficient.",
+            "Statement II alone is sufficient, but Statement I alone is not sufficient.",
+            "Both Statements I and II together are sufficient, but neither statement alone is sufficient.",
+            "Statements I and II together are not sufficient."
+        ],
+        "correctIndex": 3,
+        "tags": [
+            "averages",
+            "data-sufficiency",
+            "ages"
+        ]
+    },
+    {
+        "id": "average_038",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "hard",
+        "type": "mcq",
+        "question": "Data Sufficiency: There are 5 distinct integers arranged in ascending order. Is the average of these 5 integers greater than the median?\nStatement I: The sum of the two largest integers is more than double the sum of the two smallest integers.\nStatement II: The difference between the 5th and 3rd integer is three times the difference between the 3rd and 1st integer.",
+        "options": [
+            "Statement I alone is sufficient, but Statement II alone is not.",
+            "Statement II alone is sufficient, but Statement I alone is not.",
+            "Both Statements I and II together are sufficient.",
+            "Statements I and II together are not sufficient."
+        ],
+        "correctIndex": 1,
+        "tags": [
+            "averages",
+            "data-sufficiency",
+            "number-properties"
         ]
     },
     {
