@@ -528,12 +528,12 @@
         "type": "mcq",
         "question": "The average score of 50 students in an assessment is 54. It was found that the marks of three students were wrongly entered as 82, 75, and 64 instead of 42, 57, and 46 respectively. Additionally, two students who scored 0 were completely missed out during the calculation. What is the actual correct average score of the 52 students?",
         "options": [
+            "50.46",
             "48.5",
-            "50.0",
             "49.5",
             "51.2"
         ],
-        "correctIndex": 1,
+        "correctIndex": 0,
         "tags": [
             "averages",
             "correction",
@@ -1000,6 +1000,26 @@
             "30.00 km/h"
         ],
         "correctIndex": 0,
+        "tags": [
+            "averages",
+            "harmonic-mean",
+            "fractional-distance"
+        ]
+    },
+    {
+        "id": "average_053",
+        "section": "Numerical",
+        "topic": "Averages",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "A cricketer whose bowling average is 11.5 runs per wicket. In her next match, she takes 6 wickets by giving just 33 runs and her average decreases by 0.5. The total number of wickets taken by her.",
+        "options": [
+            "66",
+            "72",
+            "78",
+            "68"
+        ],
+        "correctIndex": 2,
         "tags": [
             "averages",
             "harmonic-mean",
